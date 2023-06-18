@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Andreas_Babler_2023_%28cropped%29.jpg/360px-Andreas_Babler_2023_%28cropped%29.jpg",
+      "job_description": "Software Engineer",
+      "company_name": "ABC Corp"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "image_url": "https://example.com/profiles/jane_smith.jpg",
+      "job_description": "Marketing Manager",
+      "company_name": "XYZ Inc"
+    },
+    {
+      "id": 3,
+      "first_name": "Alex",
+      "last_name": "Johnson",
+      "image_url": "https://example.com/profiles/alex_johnson.jpg",
+      "job_description": "Graphic Designer",
+      "company_name": "123 Co"
+    }
+  ]
+  
